@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": "9d436e98-1dc9-4f21-9587-76d4c0255e33",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+      "gender": "Male",
+      "name": "Natural rose water Rose of Bulgaria Biofresh",
+      "price": 2.29,
+      "img": "natural-rose-water-rose-of-bulgaria-biofresh.png",
+      "howToUse": "how to use",
+      "size": {
+        "type": "ml",
+        "value": 30
+      },
+      "type": "Skin care",
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "ingredients": {
+        "featured": [
+          {
+            "imageUrl": "antarcticine.jpg",
+            "title": "Glacial Glycoprotein",
+            "description": "Glacial Glycoprotein is derived from sea glaciers and notable for its ability to thrive in extreme climates. Within our formula, it is known to deeply hydrate, protect, and help prevent water loss from skin."
+          },
+          {
+            "imageUrl": "squalane.jpg",
+            "title": "Squalane",
+            "description": "Squalane is a highly-refined moisturising oil derived from olives known for its exceptional affinity to skin. Within our formula, Squalane is known to help strengthen and restore skin’s moisture barrier."
+          }
+        ],
+        "all": "Aqua/Water, Glycerin, Cyclohexasiloxane, Squalane, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sucrose Stearate, Stearyl Alcohol, PEG-8 Stearate, Myristyl Myristate, Pentaerythrityl Tetraethlhexanoate, Prunus Armeniaca Kernal Oil/Apricot Kernal Oil, Phenoxyethanol, Persea Gratissima Oil/Avocado Oil, Glyceryl Stearate, Cetl Alcohol, Oryza Sativa Bran Oil/Rice Bran Oil, Olea Europaea Fruit Oil/Olive Fruit Oil, Chlorphenesin, Stearic Acid, Palmitic Acid, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Xanthan Gum, Ethylhexylglycerin, Sodium Hydroxide, Tocopherol, Glycine Soja Oil/Soybean Oil, Pseudoalteromonas Ferment Extract, Myristic acid, Hydroxypalmitol Sphinganine, BHT, Salicylic Acid, Citric Acid."
+      }
+    },
+    {
+      "id": "bfa86b1c-9ebf-4555-987f-123f7d27be7",
+      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "gender": "Male",
+      "name": "Probiotic anti-age day cream Yoghurt of Bulgaria Biofresh",
+      "img": "probiotic-anti-age-day-cream-yoghurt-of-bulgaria-biofresh.png",
+      "price": 3.66,
+      "size": {
+        "type": "ml",
+        "value": 50
+      },
+      "howToUse": "how to use",
+      "type": "Skin care",
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "ingredients": {
+        "featured": [
+          {
+            "imageUrl": "",
+            "title": "Hello",
+            "description": ""
+          }
+        ],
+        "all": "Aqua/Water, Glycerin, Cyclohexasiloxane, Squalane, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sucrose Stearate, Stearyl Alcohol, PEG-8 Stearate, Myristyl Myristate, Pentaerythrityl Tetraethlhexanoate, Prunus Armeniaca Kernal Oil/Apricot Kernal Oil, Phenoxyethanol, Persea Gratissima Oil/Avocado Oil, Glyceryl Stearate, Cetl Alcohol, Oryza Sativa Bran Oil/Rice Bran Oil, Olea Europaea Fruit Oil/Olive Fruit Oil, Chlorphenesin, Stearic Acid, Palmitic Acid, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Xanthan Gum, Ethylhexylglycerin, Sodium Hydroxide, Tocopherol, Glycine Soja Oil/Soybean Oil, Pseudoalteromonas Ferment Extract, Myristic acid, Hydroxypalmitol Sphinganine, BHT, Salicylic Acid, Citric Acid."
+      }
+    },
+    {
+      "id": "bfa86b1c-9ebf-4555-987f-7b8bf7d27brq",
+      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "gender": "Male",
+      "name": "Probiotic ultra delicate cleansing milk for face Yoghurt of Bulgaria Biofresh",
+      "img": "probiotic-ultra-delicate-cleansing-milk-biofresh-removebg-preview.png",
+      "price": 3.21,
+      "howToUse": "how to use",
+      "size": {
+        "type": "ml",
+        "value": 100
+      },
+      "currency": {
+        "code": "GBP",
+        "symbol": "£"
+      },
+      "type": "Skin care",
+      "ingredients": {
+        "featured": [
+          {
+            "imageUrl": "",
+            "title": "Hello",
+            "description": ""
+          }
+        ],
+        "all": "Aqua/Water, Glycerin, Cyclohexasiloxane, Squalane, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sucrose Stearate, Stearyl Alcohol, PEG-8 Stearate, Myristyl Myristate, Pentaerythrityl Tetraethlhexanoate, Prunus Armeniaca Kernal Oil/Apricot Kernal Oil, Phenoxyethanol, Persea Gratissima Oil/Avocado Oil, Glyceryl Stearate, Cetl Alcohol, Oryza Sativa Bran Oil/Rice Bran Oil, Olea Europaea Fruit Oil/Olive Fruit Oil, Chlorphenesin, Stearic Acid, Palmitic Acid, Disodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Xanthan Gum, Ethylhexylglycerin, Sodium Hydroxide, Tocopherol, Glycine Soja Oil/Soybean Oil, Pseudoalteromonas Ferment Extract, Myristic acid, Hydroxypalmitol Sphinganine, BHT, Salicylic Acid, Citric Acid."
+      }
+    }
+  ]
+}
